@@ -1,80 +1,91 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+## Hi, I'm Khalid Abdelaty 👋 Aspiring Data Engineer
 
-###
+📫 Reach me: [khalidabdelatty80@gmail.com](mailto:khalidabdelatty80@gmail.com)  
+🔗 Connect: [LinkedIn](https://www.linkedin.com/in/khalidabdelaty/) | [GitHub](https://github.com/KhalidAbdelaty)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/khalidabdelaty/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://youtube.com/@KhalidAbdelat7y" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/Khalidabd3laty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+<details>
+  <summary>About Me</summary>
+  <p>A passionate Data Engineer with hands-on experience in Azure cloud technologies, machine learning, and data pipeline development. Currently pursuing Computer Science at Tanta University while actively contributing to the developer community as a Beta Microsoft Student Ambassador.</p>
+  
+  <p>Specializing in building scalable data solutions using Python and Azure services, with certifications in Azure Data Fundamentals and DataCamp Data Engineering. Proven track record in leading technical workshops and implementing production-grade ETL pipelines.</p>
+</details>
 
-###
+## 🛠️ Technical Projects
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KhalidAbdelaty/count.svg?"  />
-</div>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [End-to-End Uber Analytics Data Engineering Project](https://github.com/KhalidAbdelaty/DEPI) |This project represents the culmination of my training in the Microsoft Data Engineer Track at DEBI | Python, SQL, Azure, ETL |
+| [ML Classification Model](https://github.com/KhalidAbdelaty/CodeAlpha_Titanic-Classification) | Titanic survival predictor with 85% accuracy using feature engineering | Python, Scikit-learn, Pandas |
+| [Azure-Power BI Integration Guide](https://techcommunity.microsoft.com/blog/educatordeveloperblog/integrating-power-bi-with-azure-data-services/4173651) | Technical blog post on data visualization integration | Power BI, Azure SQL |
 
-###
+## 📚 Education & Certifications
 
-<h1 align="center">hey there 👋</h1>
+**Tanta University**  
+*BSc Computer Science* (2022-2026)  
+**Udacity**  
+*Front End Web Developer Nanodegree* (2024-Present)
 
-###
+| Certification | Details | Date |
+|---------------|---------|------|
+| Azure Data Fundamentals | 895 Score - Azure relational/non-relational data | Sep 2024 |
+| DataCamp Certified Engineer | 100+ hours hands-on data engineering | Jan 2025 |
+| GitHub Foundations | 95% Score - Version control mastery | Sep 2024 |
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 💼 Professional Experience
 
-###
+<details>
+  <summary>Digital Egypt Pioneers Initiative - Data Engineer Intern</summary>
+  <p>Apr 2024 - Oct 2024</p>
+  <ul>
+    <li>Implemented SQL data warehouses and automated data quality checks</li>
+    <li>Deployed ML models using MLflow and Hugging Face</li>
+    <li>Developed Python automation scripts for data processing</li>
+  </ul>
+</details>
 
-<p align="left">I'm KhalidAbdelaty from Egypt<br><br>- 🔭 I’m working as a Data Analyst and front-end developer<br>- 📚 I'm currently learning CS</p>
+<details>
+  <summary>Microsoft - Virtual Intern</summary>
+  <p>Jun 2023 - Aug 2023</p>
+  <ul>
+    <li>Built AI image recognition models with 90% accuracy</li>
+    <li>Created Azure Machine Learning workflows</li>
+    <li>Developed interactive data visualizations</li>
+  </ul>
+</details>
 
-###
+## 🌟 Leadership
 
-<h3 align="left">🛠 Language and tools</h3>
+**Beta Microsoft Student Ambassador**  
+*Jan 2024 - Jan 2025*
+- Led workshops for 500+ students on Azure cloud technologies
+- Organized 3 hackathons promoting Microsoft solutions
+- Created technical documentation for student developers
 
-###
+## 🛠️ Technical Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+**Cloud & Data**  
+`Microsoft Azure` `Azure Data Factory` `Power BI` `ETL` `Data Warehousing`  
+**Programming**  
+`Python` `SQL` `JavaScript` `C++`  
+**Machine Learning**  
+`Scikit-learn` `Pandas` `MLflow` `Hugging Face`
 
-###
+## 📝 Publications
 
-<h3 align="left">🔥   My Stats :</h3>
+<details>
+  <summary>Technical Blog on Microsoft Tech Community</summary>
+  <ul>
+    <li><a href="https://techcommunity.microsoft.com/blog/educatordeveloperblog/azure-synapse-a-step-by-step-beginner%e2%80%99s-guide/4197933">Azure Synapse: A Step-by-Step Beginner’s Guide</a> (30.5K views)</li>
+  </ul>
+</details>
 
-###
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KhalidAbdelaty&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalidAbdelaty&show_icons=true&theme=default)
 
-###
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+*Let's connect! Always excited to discuss data engineering, Azure cloud solutions, and open-source projects.* 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalidAbdelaty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhalidAbdelaty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+"Data is the new oil, but it's useless unrefined." - Building pipelines that matter 🔧

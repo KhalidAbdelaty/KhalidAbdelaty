@@ -22,8 +22,6 @@
 
 **Tanta University**  
 *BSc Computer Science* (2022-2026)  
-**Udacity**  
-*Front End Web Developer Nanodegree* (2024-Present)
 
 | Certification | Details | Date |
 |---------------|---------|------|

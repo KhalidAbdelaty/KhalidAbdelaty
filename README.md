@@ -68,14 +68,24 @@
 **Machine Learning**  
 `Scikit-learn` `Pandas` `MLflow` `Hugging Face`
 
-## 📝 Publications
+# 🚀 My Publications  
 
-<details>
-  <summary>Technical Blog on Microsoft Tech Community</summary>
-  <ul>
-    <li><a href="https://techcommunity.microsoft.com/blog/educatordeveloperblog/azure-synapse-a-step-by-step-beginner%e2%80%99s-guide/4197933">Azure Synapse: A Step-by-Step Beginner’s Guide</a> (30.5K views)</li>
-  </ul>
-</details>
+## 📝 Publications  
+
+<details>  
+  <summary>Technical Blog on Microsoft Tech Community</summary>  
+  <ul>  
+    <li>📖 <a href="https://techcommunity.microsoft.com/blog/educatordeveloperblog/azure-synapse-a-step-by-step-beginner%e2%80%99s-guide/4197933">Azure Synapse: A Step-by-Step Beginner’s Guide</a> (30.5K views)</li>  
+  </ul>  
+</details>  
+
+<details>  
+  <summary>Technical Blog on DataCamp</summary>  
+  <ul>  
+    <li>📖 <a href="https://www.datacamp.com/tutorial/delta-lake">Delta Lake: A Practical Introduction with Hands-On Examples</a></li>  
+  </ul>  
+</details>  
+
 
 ## 📈 GitHub Stats
 

@@ -1,7 +1,7 @@
 ## Hi, I'm Khalid Abdelaty 👋 Aspiring Data Engineer
 
 📫 Reach me: [khalidabdelatty80@gmail.com](mailto:khalidabdelatty80@gmail.com)  
-🔗 Connect: [LinkedIn](https://www.linkedin.com/in/khalidabdelaty/) | [GitHub](https://github.com/KhalidAbdelaty)
+🔗 Connect: [LinkedIn](https://www.linkedin.com/in/khabdelaty/) | [GitHub](https://github.com/KhalidAbdelaty)
 
 <details>
   <summary>About Me</summary>
